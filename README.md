@@ -4,7 +4,7 @@ E-mail: drcallaway@gmail.com • GitHub: https://github.com/drcallaway
 ### EXPERIENCE SUMMARY
 I have a broad technical background ranging from Java/JEE programming to Microsoft .NET Windows development to Android mobile applications. With more than fifteen years of comprehensive Web/backend development experience, I have designed, developed, and deployed many successful Internet solutions using JEE (servlets/JSP/EJB/REST/SOAP), ASP.NET (C#), PHP, Flex, Node.js, and HTML/JavaScript/Ajax. I am well versed in database and application server technologies and I am the author of the book Inside Servlets: Server-Side Programming for the Java Platform published by Addison-Wesley.
 
-![Inside Servlets](inside_servlets_1_2.png)
+![Inside Servlets](inside_servlets_1_2_cover.png)
 
 ### PROFESSIONAL EXPERIENCE
 **Staff Software Engineer**, Intuit, Inc., Small Business Financial Services division, Orem, Utah\
