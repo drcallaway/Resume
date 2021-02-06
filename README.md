@@ -1,12 +1,14 @@
-## DUSTIN R. CALLAWAY
+Last Updated: July 2012
+
+# DUSTIN R. CALLAWAY
 E-mail: drcallaway@gmail.com • GitHub: https://github.com/drcallaway
 
-### EXPERIENCE SUMMARY
+## EXPERIENCE SUMMARY
 I have a broad technical background ranging from Java/JEE programming to Microsoft .NET Windows development to Android mobile applications. With more than fifteen years of comprehensive Web/backend development experience, I have designed, developed, and deployed many successful Internet solutions using JEE (servlets/JSP/EJB/REST/SOAP), ASP.NET (C#), PHP, Flex, Node.js, and HTML/JavaScript/Ajax. I am well versed in database and application server technologies and I am the author of the book Inside Servlets: Server-Side Programming for the Java Platform published by Addison-Wesley.
 
 ![Inside Servlets](inside_servlets_1_2_cover.png)
 
-### PROFESSIONAL EXPERIENCE
+## PROFESSIONAL EXPERIENCE
 **Staff Software Engineer**, Intuit, Inc., Small Business Financial Services division, Orem, Utah\
 *March 2007 - Present*\
 • Developed content driven architecture for next generation TurboTax product\
@@ -58,13 +60,13 @@ I have a broad technical background ranging from Java/JEE programming to Microso
 • Software development and consulting for Arthur Andersen offices wordwide\
 • Created and distributed CDs that automatically configure workstations at remote offices\
 
-### TECHNICAL SKILLS
+## TECHNICAL SKILLS
 Languages: Java, C#, VB, JavaScript, ActionScript/MXML, Groovy, Objective-C, SQL, HTML, XML, XSLT, CSS, PHP\
 Application Servers: Glassfish, WebSphere, WebLogic, JBoss, Tomcat, Resin, Jetty, IIS\
 Databases: DB2, Oracle, SQL Server, MySQL\
 Development Tools: IntelliJ IDEA, Eclipse, NetBeans, Visual Studio\
 
-### EDUCATION
+## EDUCATION
 Bachelor of Science, Brigham Young University, Provo, Utah\
 August 1994\
 Major: Computer Science\
